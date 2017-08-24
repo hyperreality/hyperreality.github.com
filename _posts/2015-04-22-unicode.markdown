@@ -1,0 +1,13 @@
+---
+layout: post
+title: Unicode Shift Cipher
+permalink: /unicode-shift-cipher
+---
+
+Security by obscurity isn't security, but it can make for a [confounding layer](https://danielmiessler.com/study/security-by-obscurity/) on top of strong cryptography. Unfamilar characters like the Korean Hangul or Chinese Hanzi tend to be filtered out by people who can't read them, which presents a fun opportunity to hide information in plain sight.
+
+The Unicode Shift Cipher converts plaintext in one language to ciphertext that appears to be in another language. By default, an English message is converted to Unicode code points and then shifted onto the Chinese Unicode block. A random multiple of the plaintext Unicode code point range is added in order to create variation in the ciphertext, which modulo arithmetic can reverse. This works best when the ciphertext code point range is much larger than the plaintext code point range.
+
+The code is faciliated by Python 3's excellent Unicode support.
+
+{% gist 5b24faadd708a8a4ace324b7a42daed1 %}

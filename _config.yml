@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         kramdown
+redcarpet:
+  extensions: ["tables"]
+
+highlighter:         rouge
+
+# Permalinks
+permalink: /:title/
+relative_permalinks: false
+
+# Setup
+title : Laurence Tennant
+url:              http://www.laurencetennant.com
+shorturl:         laurencetennant.com
+
+author:
+  name:           'Laurence Tennant'
+
+# Custom vars
+github:		  hyperreality

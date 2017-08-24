@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /hk/
+
+User-Agent: ia_archiver
+Disallow: /

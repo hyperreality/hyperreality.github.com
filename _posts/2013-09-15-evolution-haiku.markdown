@@ -1,0 +1,11 @@
+---
+layout: post
+title: Evolution Haiku
+permalink: /evolution-haiku
+---
+> **evolution**  
+> savannah dust trails  
+> whistling thorn hovers above  
+> hungry giraffe grows  
+
+![hungry giraffe grows](/assets/d2964.jpg)
