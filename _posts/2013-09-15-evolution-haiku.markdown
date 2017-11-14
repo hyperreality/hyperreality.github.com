@@ -8,4 +8,4 @@ permalink: /evolution-haiku
 > whistling thorn hovers above  
 > hungry giraffe grows  
 
-![hungry giraffe grows](/assets/d2964.jpg)
+![hungry giraffe grows](/assets/giraffe.jpg)
