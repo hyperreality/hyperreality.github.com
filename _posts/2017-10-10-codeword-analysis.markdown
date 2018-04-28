@@ -10,9 +10,7 @@ The [Codeword Solver](http://codewordsolver.com) has now been running for over t
 
 ![Codeword solver](/assets/codeword/solver.png)
 
-The initial job was to clean up the data. Having filtered for requests which contain codeword queries, a count showed about 60,000 unique searches per month [2]. 
-
-Looking at total unique IP addresses, there are about 75,000 [3]. That could signify either a small loyal userbase of codeword solvers, or an artificially inflated total due to crawlers and hacking scanners. Since I couldn't identify many obviously automated queries, I prefer the 'loyal userbase' theory.
+The logs showed about 60,000 unique searches per month [2], from an overall total of 75,000 unique IP addresses [3]. That's a lot of searches per user on average, which could signify either a small loyal userbase of codeword solvers, or an artificially inflated total due to crawlers and hacking scanners. Since I couldn't identify many obviously automated queries, I prefer the idea of a loyal userbase.
 
 Which nations like solving codewords the most? Plotting the visitors on the world map shows a very uneven distribution [4]:
 
