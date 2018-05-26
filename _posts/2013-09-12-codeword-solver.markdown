@@ -4,7 +4,7 @@ title: Codeword Solver
 permalink: /codeword-solver
 ---
 
- **Now online:** [Codeword Solver](http://codewordsolver.com)
+ **Now online:** [codewordsolver.com](https://codewordsolver.com)
 
 About a year ago I was stuck on a fiendish codeword. Not wanting to pay the extortionate rates that papers charge for puzzle helplines, I created a codeword solver.
 

@@ -12,7 +12,7 @@ I was on good form tonight, not detached with my mind elsewhere as usual. The co
 
 We looked like we were enjoying ourselves, so two more guys wandered over. They hung around in the wings for a while before awkwardly introducing themselves. I tried my best to find some common topics, but dialogue stuttered and faltered. And it was too late.
 
-The attractive girl suddenly excused herself from the circle, giving her an exit index of 1. Wait - what? In a blinding flash I visualised a simple equation - the exit index formula:
+The attractive girl suddenly excused herself from the circle, giving her an exit index of 1. Wait - what? In a blinding flash I visualised a simple equation&mdash;the exit index formula:
 
 ![exit index formula](/assets/exitindex.gif)
 
@@ -24,10 +24,10 @@ I was sipping my mulled wine and trying to work out how to deal with the problem
 
 The exit index tends to stabilise when both you and your friends mutually love other's company ...interpolate beautiful memories of day-long reunions... Yet due to the limitations of our universe, somebody inevitably has to call a halt to things. This reveals a social imbalance. At some point, some external event or commitment becomes a higher priority for one of the conversationalists than continuing to talk.
 
-This leads to the tragedy of parties, whereby a great deal of partygoers are left feeling isolated from the company they seek the most. As my old economics teacher might have said, the main cause of this phenomenon is the enormous asymmetry in people's exit indexes. Based on preliminary observations, some extraordinarily trendy/charming/entertaining people have exit indexes of 10+, whilst others possess indexes lingering around rock bottom. If we drew a connected bubble chart of social relationships, we'd find that people with high exit ratios congregate in the centre, such that the bubble chart could accurately be mapped onto the spatial distribution of the party room:
+This leads to the tragedy of parties, whereby partygoers are often left feeling isolated from the company they seek the most. As my old economics teacher might have said, the main cause of this phenomenon is the asymmetry in people's exit indexes. Based on preliminary observations, some extraordinarily trendy/charming/entertaining people have exit indexes of 10+, while others possess indexes lingering around rock bottom. If we drew a connected bubble chart of social relationships, we'd find that people with high exit ratios congregate in the centre, such that the bubble chart could accurately be mapped onto the spatial distribution of the party room:
 
 ![look familiar?](/assets/diagram.jpg)
 
 I admit that I remain jealous of those who have the power to maintain high exit indexes by captivating whole audiences with their unquenchable charisma. I feel bitter when I'm overlooked and others get attention that they don't seem to deserve. However, the recipe for becoming a party-piece is rather unclear, and I often discover that those who project auras of confidence are actually insecure about their position on the imagined social hierarchy.  
 
-Motivational speakers would like you to believe that socialising is simply a skill that requires practice - the more time invested, the better you become, experience is the best teacher. Yet thousands of hours later, figuring out what makes certain individuals tick remains incredibly hard work. It's much easier to remain in the womb of social theories, echo chambers, and crass generalisations. And that's a womb that the internet readily provides for you.
+Motivational speakers would like you to believe that socialising is simply a skill that requires practice&mdash;the more time invested, the better you become, experience is the best teacher. Yet thousands of hours later, figuring out what makes certain individuals tick remains incredibly hard work. It's much easier to remain in the womb of social theories, echo chambers, and crass generalisations. And that's a womb that the internet readily provides for you.

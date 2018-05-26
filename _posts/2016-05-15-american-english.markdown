@@ -6,7 +6,7 @@ permalink: /american-british-english-translator
 
 Recently I've been translating some stories with an American friend, and we've often run into the issue of mixing American English and British English. Each dialect carries thousands of exclusive meanings and connotations, and this leads to unexpected misunderstandings.
 
-I once embarrassed myself by asking an American whether I could borrow his "rubber". Neither of us were aware that a "rubber" is an eraser in the UK, a prophylactic in the USA.
+I once embarrassed myself by asking an American whether I could borrow his "rubber". Neither of us were aware of the dual meaning of "rubber": an eraser in the UK, a prophylactic in the USA.
 
 More complicated examples abound. A "bill" is an invoice or request for payment in both American and British English, but in American English it can also mean paper money (a "note" in the UK). On the other hand, in British English, "the bill" might refer to the police, for reasons that nobody seems to know.
 

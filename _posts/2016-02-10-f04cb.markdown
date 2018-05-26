@@ -4,8 +4,6 @@ title: The f04cb mystery so far
 permalink: /f04cb
 ---
 
-**Update**: Finally, Reddit user fikuhasdigu [decrypted the code](https://www.reddit.com/r/Solving_f04cb/comments/6u7eol/success/)! Congratulations. Unfortunately the contents are not very interesting.
-
 The [f04cb41f154db2f05a4a subreddit](https://reddit.com/r/f04cb41f154db2f05a4a) remains one of the internet's biggest mysteries. It has been listed amongst the [weirdest, creepiest, most insane subreddits](http://www.geek.com/news/10-of-the-weirdest-creepiest-most-insane-subreddits-1588190/) ever, and made an appearance in _The Daily Telegraph_'s [list of the most bizarre subreddits ever created](http://www.telegraph.co.uk/technology/social-media/11491539/Reddit-10-of-the-most-bizarre-subreddits-ever-created.html).
 
 In short, the cryptic messages on the subreddit have received a great deal of attention, yet little progress has been made as to what they might mean. So what do we know so far?
@@ -118,3 +116,4 @@ Indeed, the non-randomness of the decrypted f04cb data in hex is clear from the 
 
 Furthermore, the non-randomness showed up when interpreting the number in any power-of-two base (such as binary or hexadecimal), giving some clue as to an underlying representation. We weren't sure where to go next, though.
 
+A year and a half later, Reddit user fikuhasdigu [fully decrypted the code](https://www.reddit.com/r/Solving_f04cb/comments/6u7eol/success/)! Unfortunately the contents are not very interesting.
