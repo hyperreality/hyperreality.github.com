@@ -121,3 +121,5 @@ In my opinion, [HackTheBox](https://www.hackthebox.eu/) is a much better place t
 That's why I feel that HackTheBox, and to a lesser extent [VulnHub](https://www.vulnhub.com/), are fantastic environments for building up that initial experience. There is so much to be gained just from working through writeups for those boxes and collecting useful commands and techniques.
 
 Once you've done that, the OSCP lab time becomes an opportunity to hone your existing skills, plug your weaknesses, and practice techniques like pivoting and client-side attacks which you don't get much chance to do elsewhere. It'll still be challenging, but in a more fulfilling way, and a better use of your time and money.
+
+(I promise I'm not a shill for HackTheBox, I'm just glad that I started there)
