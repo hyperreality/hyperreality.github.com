@@ -4,7 +4,7 @@ title: Cracking a difficult Vigenère Cipher
 permalink: /vigenere
 ---
 
-Last week I competed in the [European Cyber Security Challenge](https://www.europeancybersecuritychallenge.eu), vice-captaining the UK team. I spent the first morning working on a "modified Vigenère" challenge. This post describes a highly effective method of cryptanalysing Vigenère ciphers and how it was adapted to solve the challenge.
+Last week I competed in the [European Cyber Security Challenge](https://www.europeancybersecuritychallenge.eu), and I spent the first morning working on a "modified Vigenère" challenge. This post describes a highly effective method of cryptanalysing Vigenère ciphers and how it was adapted to solve the challenge.
 
 ### Background
 
