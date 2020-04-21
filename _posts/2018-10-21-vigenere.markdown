@@ -363,6 +363,6 @@ In 1969, students Martin Brice and Cosmo are sneakers who hack into computer net
 
 This was a fun challenge that made us think about the most optimal ways to exploit the weaknesses of classical ciphers. Several other teams struggled with the challenge and complained that it was impossible, which felt good to hear hours after we had cracked it!
 
-The attack implementation will doubtless come in useful in future CTFs as well as for a personal project I have in mind. I would one day like to write a definitive open source classical cipher cryptanalysis program, borrowing ideas from [CryptoCrack](https://sites.google.com/site/cryptocrackprogram/home) and [CyberChef](https://gchq.github.io/CyberChef/) and written in a trendy language like Rust. If only I had the time.
+The attack implementation will doubtless come in useful in future CTFs as well as for a personal project I have in mind. ~~I would one day like to write a definitive open source classical cipher cryptanalysis program, borrowing ideas from [CryptoCrack](https://sites.google.com/site/cryptocrackprogram/home) and [CyberChef](https://gchq.github.io/CyberChef/) and written in a trendy language like Rust.~~ Update: I've since been focussing my efforts on [CryptoHack](https://cryptohack.org/), and [CrypTool 2](https://www.cryptool.org/en/cryptool2) already does what I said.
 
 The full code for this post is available on [Github](https://github.com/hyperreality/vigenere/blob/master/vigenere_attack.py).
