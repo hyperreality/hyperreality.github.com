@@ -12,7 +12,7 @@ The Pirate Association is "focus[ing] on the Greater Manchester area", by reprod
 
 The activists provide for download an archive, *buspiraten_v1.0.zip*, and its corresponding [GPG](https://aplawrence.com/Basics/gpg.html) signature. A GPG public key is displayed further down the page, along with a [Bitcoin address](https://www.blockchain.com/btc/address/34tQaxCReTm4mpHYWhJubhiMuqM4f65JUF) which has received no donations so far.
 
-The GPG signature doesn't mean much at this point because the public key and downloads are all being served from the same untrusted page. However, if the activists release more in future, signatures can prove that later releases originated from the same source. After unpacking the archive, we find a GPG signature for one of the files inside, which is rather pointless because the archive itself has already been signed.
+The GPG signature doesn't mean much at this point because the public key and downloads are all being served from the same untrusted page. However, if the activists release more in future, signatures can prove that later releases originated from the same source.
 
 The main contents are two relatively modern and well-written JavaScript projects, which produce valid tickets for Transport for Greater Manchester and First Bus. The code is almost identical for both, with mostly cosmetic differences.
 
@@ -20,7 +20,7 @@ The main contents are two relatively modern and well-written JavaScript projects
 
 ![](/assets/ticket.gif)
 
-_I think it's a bug that the QR code is changing every second_
+_Yes, 'WEED' really is the word of the day_
 
 ### Code review
 
@@ -34,7 +34,7 @@ That's pretty much the core of the apps. The rest is all frontend code, fonts an
 
 ### Motivation
 
-The Public Transport Pirate Association endorses two websites, [Free Public Transport](http://www.freepublictransport.org.uk/), a Manchester-based campaign, and [Planka.nu](https://planka.nu), a Swedish group which encourages people to fare-dodge and covers their fines if they get caught. Free Public Transport's website looks like it was created in the early 90s. Most of the campaign's goals are reasonable enough, such as "defend and extend the availability and reliability of public transport". The main and more controversial goal is that public transport should be free for all.
+The Public Transport Pirate Association endorses two websites, [Free Public Transport](http://www.freepublictransport.org.uk/), a Manchester-based campaign, and [Planka.nu](https://planka.nu), a Swedish group which encourages people to fare-dodge and covers their fines if they get caught. Most of the campaign's goals are reasonable enough, such as "defend and extend the availability and reliability of public transport". The bigger and more controversial goal is that public transport should be free for all.
 
 Wikipedia has a fairly positive article on [free public transport](https://en.wikipedia.org/wiki/Free_public_transport). Apparently Luxembourg is already committed to make all public transport free in March 2020. The main benefits are less pollution, better mobility for people on lower incomes, and faster boarding times.
 

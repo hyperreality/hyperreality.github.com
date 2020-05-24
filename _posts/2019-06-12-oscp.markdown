@@ -32,7 +32,7 @@ When a different proctor asked me to restart the software again later, I explain
 
 #### VM workflow
 
-Kali ships with GNOME 3 as the desktop environment, but I believe XFCE is a much better choice inside a VM as it's minimalistic, fast to navigate, and light on system resources. You can try XFCE by running `apt install xfce4 xfce4-goodies`, and selecting "Xfce Session" from the drop-down switcher at the top of the login screen.
+Kali ships with GNOME 3 as the desktop environment, but I believe XFCE is a much better choice inside a VM as it's minimalistic, fast to navigate, and light on system resources. You can try XFCE by running `apt install xfce4 xfce4-goodies`, and selecting "Xfce Session" from the drop-down switcher at the top of the login screen. **UPDATE**: apparently great minds think alike, as [since November 2019](https://www.kali.org/news/kali-linux-2019-4-release/), XFCE is now the default desktop environment for Kali.
 
 ![](/assets/kali_xfce.jpg)
 
@@ -72,7 +72,7 @@ This rdesktop command makes /var/www available to the Windows machine as a netwo
 
 `rdesktop -g 85% -r disk:share=/var/www -r clipboard:CLIPBOARD -u username -p password 10.10.10.10`
 
-RDP then becomes slightly less awkward when developing your buffer overflow exploit or performing post-exploitation.
+RDP then becomes less awkward when developing your buffer overflow exploit or performing post-exploitation.
 
 #### Escalation with root command (Linux)
 
@@ -118,7 +118,7 @@ What I'm saying is that the OSCP labs are unforgiving if they're your first expo
 
 In my opinion, [HackTheBox](https://www.hackthebox.eu/) is a much better place to start. Machines are graded by difficulty, and the forums have a great culture of sharing knowledge. Out of their own goodwill and the principle of 'paying it forward', people take time to help you if you are stuck, and there are high-quality writeups available for all the retired machines. Some say that HTB machines are more "CTF-like" (less realistic) than OSCP machines, and while that's true on average, there's a whole variety of boxes, some of which are just like the OSCP lab machines. Best of all, the basic features are free, and a couple months' membership is very cheap compared to OSCP.
 
-That's why I feel that HackTheBox, and to a lesser extent [VulnHub](https://www.vulnhub.com/), are fantastic environments for building up that initial experience. There is so much to be gained just from working through writeups for those boxes and collecting useful commands and techniques.
+That's why I feel that HackTheBox, and to a lesser extent [VulnHub](https://www.vulnhub.com/), are fantastic environments for building up that initial experience. There is a lot to be gained just from working through writeups for those boxes and collecting useful commands and techniques.
 
 Once you've done that, the OSCP lab time becomes an opportunity to hone your existing skills, plug your weaknesses, and practice techniques like pivoting and client-side attacks which you don't get much chance to do elsewhere. It'll still be challenging, but in a more fulfilling way, and a better use of your time and money.
 
