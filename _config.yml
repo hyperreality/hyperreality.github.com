@@ -1,19 +1,30 @@
-# Dependencies
-markdown:         kramdown
-
-highlighter:         rouge
-
 # Permalinks
 permalink: /:title/
 relative_permalinks: false
 
+show_excerpts: false # set to true to show excerpts on the homepage
+
 # Setup
-title : Laurence Tennant
-url:              http://www.laurencetennant.com
-shorturl:         laurencetennant.com
+title: Laurence Tennant
+url: http://www.laurencetennant.com
+shorturl: laurencetennant.com
 
 author:
-  name:           'Laurence Tennant'
+  name: Laurence Tennant
+quote: '"All things are difficult before they are easy." - Thomas Fuller'
 
 # Custom vars
-github:		  hyperreality
+github: hyperreality
+
+theme: minima
+
+minima:
+  # generate social links in footer
+  social_links:
+    github:  hyperreality
+    keybase: hyperreality
+    youtube_channel: UCWYe3Jl9yWk01PuiR19nX7w
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
