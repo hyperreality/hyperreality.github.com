@@ -6,6 +6,7 @@ permalink: /incredible-longform-articles
 
 Here's a list of fantastic longform articles, primarily focussed on true crime. They immerse you in the lives of others and show the spectacular range of human experience.
 
+- [The Full Story of the Stunning RSA Hack Can Finally Be Told](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/) (Wired, 2021)
 - [The Rise and Fall of a Double Agent](https://thewalrus.ca/the-rise-and-fall-of-a-double-agent/) (The Walrus, 2021)
 - [What Really Happened Aboard Air France 447](https://www.popularmechanics.com/flight/a3115/what-really-happened-aboard-air-france-447-6611877) (Popular Mechanics, 2020)
 - [The Strange Life and Mysterious Death of a Virtuoso Coder](https://www.wired.com/story/strange-life-mysterious-death-of-virtuoso-coder/) (Wired, 2019) + [follow-up conspiracy theory](https://github.com/zack-bitcoin/amoveo-docs/blob/master//other_blockchains/tessr.md)
