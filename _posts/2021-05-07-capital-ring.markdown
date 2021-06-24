@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ranking London's Capital Ring
+title: Walking and Ranking London's Capital Ring
 permalink: /capital-ring
 ---
 
@@ -29,8 +29,8 @@ I apologise for the poor quality of the photographs, they are snapped from my ph
 7 | [Richmond to Osterley Lock](#7) | 7/10
 8 | [Osterley Lock to Greenford](#8) | 6/10
 9 | [Greenford to South Kenton](#9) | 9/10
-10 | [South Kenton to Hendon](#10) | 5/10
-11 | [Hendon to Highgate](#11) | 7/10
+10 | [South Kenton to Hendon Park](#10) | 5/10
+11 | [Hendon Park to Highgate](#11) | 7/10
 12 | [Highgate to Stoke Newington](#12) | 3/10
 13 | [Stoke Newington to Hackney Wick](#13) | 7/10
 14 | [Hackney Wick to Beckton District Park](#14) | 6/10
