@@ -23,8 +23,8 @@ Since walking the Capital Ring I purchased a better camera which explains the mo
 3 | [Petts Wood to West Wickham Common](#3) | 9/10
 4 | [West Wickham Common to Hamsey Green](#4) | /10
 5 | [Hamsey Green to Coulsdon South](#5) | /10
-6 | [Coulsdon South to Banstead Downs](#6) | /10
-7 | [Banstead Downs to Ewell](#7) | /10
+6 | [Coulsdon South to Banstead Downs](#6) | 6/10
+7 | [Banstead Downs to Ewell](#7) | 2/10
 8 | [Ewell to Kingston Bridge](#8) | 2/10
 9 | [Kingston Bridge to Hatton Cross](#9) | /10
 10 | [Hatton Cross to Hayes & Harlington](#10) | 3/10
@@ -92,32 +92,37 @@ I did not expect to catch a photo of this robin as I normally associate them wit
 ![](/assets/loop/5unexpected.jpg)
 
 ## <a name="6"></a> 6 - Coulsdon South to Banstead Downs
-#### Rating: /10
+#### Rating: 6/10
 #### The Good:
 ![](/assets/loop/6good.jpg)
+Once this section gets going, it's great, with a lot of variety, keeping you engaged. It's a shame that more time isn't spent in Oaks Park; I wandered into the main area and it was one of the lovelier parks I've encountered.
 #### The Bad:
 ![](/assets/loop/6bad.jpg)
+The starting stretch is infuriating, spending half an hour going up residential roads, with green spaces beckoning from the sides which you don't enter. When the trail finally gets off the road (pictured), it was overgrown and infested with flies. Later, crossing the A217 which divides Banstead Downs golf course is not a fun experience.
 #### The Unexpected:
 ![](/assets/loop/6unexpected.jpg)
+One moment I was fighting through an overgrown track, the next I was suddenly in a beautiful lavender field, teeming with amateur photographers. I was totally taken by surprise and delighted.
 
 ## <a name="7"></a> 7 - Banstead Downs to Ewell
-#### Rating: /10
+#### Rating: 2/10
 #### The Good:
 ![](/assets/loop/7good.jpg)
+Ewell has plenty of interesting historical buildings, and a quaint villagey vibe when you first emerge into it. The effect is soon spoiled by a number of busy roads, but at least it lasts for a few brief moments.
 #### The Bad:
 ![](/assets/loop/7bad.jpg)
+The first half of the section is spent walking on pavements in dull Surrey suburbia. Yes, half of the whole section.
 #### The Unexpected:
 ![](/assets/loop/7unexpected.jpg)
+Nonsuch Park is apparently heaven for dogs, with them running amok in greater numbers than I have seen in any other park. Unfortunately this made enjoying the lush surroundings more difficult.
 
 ## <a name="8"></a> 8 - Ewell to Kingston Bridge
 #### Rating: 2/10
 #### The Good:
 ![](/assets/loop/8good.jpg)
-Hogsmill Open Space and Elmbridge Meadows are tranquil, and the approach into Kingston was pretty.
+Hogsmill Open Space and Elmbridge Meadows are tranquil, and the approach into Kingston is pretty.
 #### The Bad:
 ![](/assets/loop/8bad.jpg)
 This stroll along the Hogsmill River starts pleasantly enough, but three necessary diversions from the riverside go on to ruin it. The first sees you miss the location where Millais painted his masterpiece [Ophelia](https://en.wikipedia.org/wiki/Ophelia_(painting)) since the path disappears (pictured). The next sees you walk a fair way up the horrible A3 just to find a subway then walk all the way down again on the other side. The last sends you down dull roads past a sewage plant. To top it off, the signage throughout the section was in a poor state.
-
 #### The Unexpected:
 ![](/assets/loop/8unexpected.jpg)
 Kingston was packed and looked almost Mediterranean when I arrived there. A heron was watching under the bridge. It was nice after such a disappointing walk.
@@ -189,7 +194,7 @@ This section was great all the way through, featuring a golf course, expansive p
 The anti-bike measures deployed throughout the section were both ineffective and slightly annoying. Towards the end, the stiles were in various states of disrepair.
 #### The Unexpected:
 ![](/assets/loop/14unexpected.jpg)
-I got stuck behind a family whose matriarch refused to cross a stile with a horse blocking the other side (not the same place/horse as pictured). The others tried to shoo it off but it wouldn't budge. Eventually I got tired of waiting and went over, squeezing right past the horse, and after I politely said "excuse me" it moved away!
+I got stuck behind a family whose matriarch refused to cross a stile with a horse blocking the other side (not the same place/horse as pictured). The others tried to shoo it off but it wouldn't budge. Eventually I got tired of waiting and climbed over, squeezing right past the horse, and after I politely said "excuse me" it moved away!
 
 ## <a name="15"></a> 15 - Hatch End to Elstree
 #### Rating: /10
