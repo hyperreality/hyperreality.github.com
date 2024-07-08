@@ -9,7 +9,7 @@ tags: word-games
 * Why does Kenya appear to be full of codeword addicts?
 * How many people are even interested in codewords anyway?
 
-[codewordsolver.com](http://codewordsolver.com) has now been running for over three years, during which time it has gathered plenty of data about codewords and the people who like to solve them. Recently I open sourced [the code](https://github.com/hyperreality/codeword-solver) and wanted to see what insights could be gleaned from digging through the logs. In the interests of more technically-inclined readers, I will be footnoting the commands I used throughout the article [1].
+My Codeword Solver has now been running for over three years, during which time it has gathered plenty of data about codewords and the people who like to solve them. Recently I open sourced [the code](https://github.com/hyperreality/codeword-solver) and wanted to see what insights could be gleaned from digging through the logs. In the interests of more technically-inclined readers, I will be footnoting the commands I used throughout the article [1].
 
 ![Codeword solver](/assets/codeword/solver.png)
 
@@ -186,5 +186,5 @@ plt.show()
 [6] The command first does a little cleanup of the nasty things that end up sneaking into web requests, homogenises the data, and ranks it.
 
 {% highlight bash %}
-sed -e 's/"https:\/\/codewordsolver.com\/index.cgi?l1=//' -e 's/"https:\/\/www.codewordsolver.com\/index.cgi?l1=//' out | sed '/^"/d' | sed -e 's/&l.=//g' -e 's/&l..=//g' | sed -e 's/%3F/?/g' -e 's/%253F/?/g' | sed 's/?/./g' | sed 's/"//g' | sed '/^\s*$/d' | tr '[:lower:]' '[:upper:]' | sort | uniq -c | sort -n
+sed -e 's/"/index.cgi?l1=//' -e 's/"/index.cgi?l1=//' out | sed '/^"/d' | sed -e 's/&l.=//g' -e 's/&l..=//g' | sed -e 's/%3F/?/g' -e 's/%253F/?/g' | sed 's/?/./g' | sed 's/"//g' | sed '/^\s*$/d' | tr '[:lower:]' '[:upper:]' | sort | uniq -c | sort -n
 {% endhighlight %}

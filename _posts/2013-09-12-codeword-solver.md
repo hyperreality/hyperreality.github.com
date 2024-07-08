@@ -5,8 +5,6 @@ permalink: /codeword-solver
 tags: word-games
 ---
 
- **Now online:** [codewordsolver.com](https://codewordsolver.com)
-
 About a year ago I was stuck on a fiendish codeword. Not wanting to pay the extortionate rates that papers charge for puzzle helplines, I created a codeword solver.
 
 During this process, I found it fascinating to study the way that words are constructed. English is unique in the vastness of its foreign influences, and several of the most difficult clues are loan words, like "verandah". They do not follow the same letter-ordering logic that characterises most English vocabulary.

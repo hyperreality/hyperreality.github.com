@@ -23,8 +23,9 @@ I love sitting down with a cup of tea and reading an incredible longform article
 - [How To Make Anything Signify Anything](http://www.cabinetmagazine.org/issues/40/sherman.php) (Cabinet, 2010)
 
 
-**Extreme Activities**
+**Extreme Sports**
 
+- [He Used to Ride Off Cliffs. Now He Rides an E-Bike](https://www.bicycling.com/culture/a28186407/paul-basagoitia-bike/) (Bicycling Magazine, 2019)
 - [Raising the Dead](https://www.outsideonline.com/1922711/raising-dead) (Outside Online, 2005)
 
 
@@ -51,9 +52,15 @@ I love sitting down with a cup of tea and reading an incredible longform article
 - [How a Ragtag Gang of Retirees Pulled Off the Biggest Jewel Heist in British History](https://www.vanityfair.com/culture/2016/03/biggest-jewel-heist-in-british-history) (Vanity Fair, 2016), see also [The Untold Story of the World's Biggest Diamond Heist](https://www.wired.com/2009/03/ff-diamonds-2/)
 - [A Criminal Mind](https://story.californiasunday.com/joel-dreyer-criminal-psychiatrist) (California Sunday, 2015)
 - [The Body in Room 348](https://www.vanityfair.com/culture/2013/05/true-crime-elegante-hotel-texas-murder) (Vanity Fair, 2013)
-- [The Hunt For The Death Valley Germans](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/) (Other Hand, 2012)
 - [The Incredible True Story of the Collar Bomb Heist](https://www.wired.com/2010/12/ff-collarbomb/) (Wired, 2010)
+- [The Day Treva Throneberry Disappeared](https://www.texasmonthly.com/true-crime/the-day-treva-throneberry-disappeared/) (Texas Monthly, 2002)
 - [The Professor and the Love Slave](https://www.dmagazine.com/publications/d-magazine/1993/february/the-professor-and-the-love-slave/) (D Magazine, 1993)
+
+
+**Missing Persons**
+
+- [The Time I Built an ROV to Solve Missing Person Cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/) (Suanto, 2024)
+- [The Hunt For The Death Valley Germans](https://www.otherhand.org/home-page/search-and-rescue/the-hunt-for-the-death-valley-germans/) (Other Hand, 2012)
 
 
 **Cryptocurrency**

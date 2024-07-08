@@ -13,7 +13,7 @@ More complicated examples abound. A "bill" is an invoice or request for payment 
 
 After being caught out enough times by such subtleties, I wondered if there was a website that could find and fix them for me. A quick search revealed that existing sites only detected regional spellings, such as "analyse" / "analyze". 
 
-I made a better tool that swallows large texts and coughs up any words that show the slightest traces of regional influence, according to exhaustive Wikipedia information. Here's the link: **[American English to British English Translator](https://codewordsolver.com/american-british-english-translator)**.
+I made a better tool that swallows large texts and coughs up any words that show the slightest traces of regional influence, according to exhaustive Wikipedia information. 
 
 The website and accompanying code should be useful to:
 
