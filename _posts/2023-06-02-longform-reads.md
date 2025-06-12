@@ -39,6 +39,7 @@ I love sitting down with a cup of tea and reading an incredible longform article
 **Society**
 
 - [The Rise and Fall of a Double Agent](https://thewalrus.ca/the-rise-and-fall-of-a-double-agent/) (The Walrus, 2021)
+- [Torching the Modern-Day Library of Alexandria](https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/) (The Atlantic, 2017)
 - [Worst Chimpanzee Attack Story Ever](https://www.esquire.com/news-politics/a5609/chimpanzee-attack-0409/) (Esquire, 2009)
 - [I Went to 50 Different Dentists and Almost All of Them Gave Me a Different Diagnosis ](https://www.rd.com/article/how-honest-are-dentists/) (Reader's Digest, 1997)
 - [Have You Ever Tried to Sell a Diamond?](https://www.theatlantic.com/magazine/archive/1982/02/have-you-ever-tried-to-sell-a-diamond/304575/) (The Atlantic, 1982)
