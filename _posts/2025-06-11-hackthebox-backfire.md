@@ -21,7 +21,7 @@ These are brilliant teachers, and I admire their ability to dive deep but also e
 
 ![Polarising reviews](/assets/backfire-reviews.png)
 
-Feedback for Backfire through Hack The Boxes's rating system was somewhat polarised. A lot of players loved the machine, mentioning how original it was and how much they learned. However there was a fair amount of negative feedback too. Perhaps the majority of this was due to the fact that the machine was classified as Medium difficulty when it was should have been Hard.
+Feedback for Backfire through Hack The Boxes's rating system was somewhat polarised. A lot of players loved the machine, mentioning how original it was and how much they learned. However there was a fair amount of negative feedback too. Perhaps the majority of this was due to the fact that the machine was classified as Medium difficulty when it should have been Hard.
 
 Some feedback was that the machine was "unrealistic". There's often a concern that Hack The Box and CTFs showcase unrealistic vulnerabilities as opposed to real world security knowledge. But I think this is way off the mark here - the machine runs unmodified/barely modified software with active vulnerabilities. You could even hack other Hack The Box players with the exploits!
 

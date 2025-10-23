@@ -77,7 +77,7 @@ Despite seeing the Litlington White Horse in the distance, I completely missed t
 
 ![](/assets/sdw/31.jpg)
 
-Just when I was about to conclude that this section was overall the best for a gravel bike, I reached two of the toughest climbs of the whole South Downs Way. The one after Alfriston sticks in my mind as particularly brutal, with an extremely steep overgrown path made of loose bricks in some places. The only other cyclist I encountered round here was riding the fattest tyres I've ever seen.
+Just when I was about to conclude that this section was overall the best for a gravel bike, I reached two of the toughest hills of the whole South Downs Way. The slow grassy climb out of Southease sticks in my mind as particularly tough. 
 
 Once I saw Eastbourne I knew I was very close to the end and I couldn't wait to replenish some of those carbohydrates. At the same time I had to stop to admire the final view and the area round Beachy Head has a special feel to it.
 
