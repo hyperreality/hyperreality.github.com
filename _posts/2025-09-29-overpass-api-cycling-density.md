@@ -23,16 +23,20 @@ I enjoy cycling off-road and like to plot routes that avoid roads as much as pos
 
  * Overpass API is a powerful tool for querying geographical data
  * ChatGPT is impressively good at writing queries for it
- * Datawrapper produces beautiful maps with minimal effort
+ * Datawrapper produces beautiful [chloropeth maps](https://en.wikipedia.org/wiki/Choropleth_map) with minimal effort
  * OpenStreetMaps tagging has a lot of inconsistencies
 
-#### Analysis
+### Analysis
 
 This was a fun exercise but I don't think I would use it in deciding where to live or cycle. Ultimately there is little comparison between a mountain bike trail, a picturesque bridleway, and an urban cycleway. Although all are off-road cycle routes, each serves a completely different purpose.
 
 Further, even if we limit our search to just one type of cyclable route, the quality of them varies hugely - even within the same area. Some bridleways are excellent, others are virtually unrideable. And I would prefer to cycle on a quiet road rather than a busy, interrupted, debris-strewn shared use path.
 
-The [Strava heatmap](https://www.strava.com/maps/global-heatmap?hl=en-GB&sport=MountainBikeRide&style=dark&terrain=false&labels=true&poi=true&cPhotos=true&gColor=blue&gOpacity=100#9.7/51.3196/-0.4579) is the most valuable data in my opinion, as it shows where people actually ride. 
+![](/assets/osm/offroadcycletypes.png)
+
+The [Strava heatmap](https://www.strava.com/maps/global-heatmap?hl=en-GB&sport=MountainBikeRide&style=dark&terrain=false&labels=true&poi=true&cPhotos=true&gColor=blue&gOpacity=100#9.7/51.3196/-0.4579) is the most valuable data in my opinion, as it shows where people actually ride:
+
+![](/assets/osm/strava_heatmap.jpg)
 
 ### Process
 
@@ -40,13 +44,13 @@ The rest of the blog documents how I produced the map. Here's a [link to the dat
 
 #### Bridleways
 
-The closest previous work was a [website which maps bridleways](https://bridleways.uk/counties). Bridleways are horse-riding routes which cyclists have also been allowed to ride on [since 1968](https://en.wikipedia.org/wiki/Countryside_Act_1968). My initial idea was just to grab the per-county bridleway length calculations from that site, but I wanted to go to the source of the data. Then I could include all off-road cycle routes, and show the availability of those routes in smaller areas across the country.
+The closest previous work was a site called [bridleways.uk](https://bridleways.uk/counties). Bridleways are horse-riding routes which cyclists have also been allowed to ride on [since 1968](https://en.wikipedia.org/wiki/Countryside_Act_1968). My initial idea was to grab the per-county bridleway length calculations from that site, but I wanted to go to the source of the data. This would allow me to include all off-road cycle routes, and show the availability of those routes in smaller areas across the country.
 
-I saw that site gets its data from OpenStreetMap, a community-driven map database that is particularly good for outdoor mapping like hiking trails and cycling routes. OpenStreetMap data is used by platforms like Strava and Komoot.
+Bridleways.uk gets some of its data from [rowmaps](https://www.rowmaps.com/) and the rest from [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap), a community-driven map database that is particularly good for outdoor mapping like hiking trails and cycling routes. OpenStreetMap data is used by platforms like Strava and Komoot.
 
 #### Overpass Turbo
 
-I found [Overpass Turbo](https://overpass-turbo.eu/), a great resource for freely querying OpenStreetMap data. Overpass has a tricky [query language](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) which ChatGPT was awesome at assisting with.
+I found [Overpass Turbo](https://overpass-turbo.eu/), a resource for freely querying OpenStreetMap data. Overpass has a tricky [query language](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) which ChatGPT was awesome at assisting with.
 
 ![](/assets/osm/overpass.jpg)
 
@@ -56,9 +60,9 @@ OpenStreetMap uses the term ["highway"](https://wiki.openstreetmap.org/wiki/High
 
 #### Inconsistent Data
 
-Exploring the OpenStreetMap tagged data, I discovered it was often inconsistent and confusing in terms of how it indicated cycle access. Partly I think this is due to it being a community map with different users adding different tags to represent the same information. It's also probably to do with how complicated the access situation is in England (and the rest of the UK, besides Scotland). The following are places where you can usually ride your bike:
+Exploring the OpenStreetMap tagged data, I discovered it was often inconsistent and confusing in terms of how it indicated cycle access. Partly I think this is due to it being a community map with different users adding different tags to represent the same information. It's also probably to do with how complicated the access situation is in England (and the rest of the UK, besides Scotland). The following are [places where you can usually ride your bike](https://www.cpre.org.uk/discover/permissive-to-public-know-your-pathways/):
  * bridleways 
- * [restricted byways](https://www.cpre.org.uk/discover/permissive-to-public-know-your-pathways/)
+ * restricted byways
  * BOATS (byways open to all traffic)
  * shared used paths
  * permissive paths
@@ -102,7 +106,7 @@ Cool! Datawrapper helps you make really nice visualisations with relatively litt
 
 #### Density Limitation
 
-An obvious issue with the Cyclable Density metric is the strong correlation it has with population density. Urban areas are more likely to have cycle infrastructure, therefore the map ends up resembling a population density map:
+An obvious issue with the Cyclable Density metric is the strong correlation it has with population density ([r/peopleliveincities](https://reddit.com/r/PeopleLiveInCities/)). Urban areas are more likely to have cycle infrastructure, therefore the map ends up resembling a population density map:
 
 ![](/assets/osm/population-density.jpg)
 
@@ -110,7 +114,7 @@ Nevertheless, there's still some observations that can be drawn. For instance, E
 
 #### Per capita
 
-Attempting to compensate for the urban density effect, I divided the cyclable length by population instead, to get the per-capita provision of off-road cycle paths:
+Attempting to compensate for the urban density effect, I divided the cyclable length by population instead, to get the per-capita provision of off-road cycle routes:
 
 <iframe title="Cyclable Metres Per Capita" aria-label="Choropleth map" id="datawrapper-chart-zivNd" src="https://datawrapper.dwcdn.net/zivNd/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="804" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
@@ -124,4 +128,22 @@ Learning my lesson from before on inconsistent OpenStreetMaps tagging, I found w
 
 Once again however I had to special-case some districts with an administrative boundaries tag selector. OpenStreetMaps does not seem to have up-to-date GSS codes tags for East Staffordshire, Lichfield, Stafford, Staffordshire Moorlands, Tamworth, North Warwickshire, Nuneaton and Bedworth, Rugby, and Warwick.
 
+[Link to script](https://gist.github.com/hyperreality/adf9f652919b7b2410f0c924e37dd03a) used to produce the map at the top of the blog.
 
+#### Large Area Limitation
+
+Even breaking the areas down into local authority districts, there's an enormous variation in areas of the districts - from North Yorkshire at 8037km<sup>2</sup> to City of London at 3km<sup>2</sup>. Adding to the urban area skew, the larger areas may contain great off-road cycling areas that are diluted by large empty areas of farmland.
+
+The formal term for this seems to [Modifiable Areal Unit Problem (MAUP)](https://en.wikipedia.org/wiki/Modifiable_areal_unit_problem): referring to statistical distortions that appear when spatial data are aggregated into areas that differ greatly in size or shape.
+
+#### Why only England?
+
+What about cyclable density in the rest of the UK? [Since 2003](https://en.wikipedia.org/wiki/Land_Reform_(Scotland)_Act_2003) Scotland has been way ahead of England, with broad access rights for non-motorised vehicles over the countryside. Looking at the official routes in Scotland doesn't capture the far greater density of legally accessible land for cycling. Disappointingly, although England implemented a limited right-to-roam over moorland [in 2000](https://en.wikipedia.org/wiki/Countryside_and_Rights_of_Way_Act_2000), this applied to walking only.
+
+I didn't look at Wales and Northern Ireland because they use different administrative boundaries and it was easier to focus on England for this initial analysis. A look at [bridleways.uk](https://bridleways.uk/) shows that Northern Ireland has very few bridleways, while Mid Wales seems to have a good network of them.
+
+#### Future Work
+
+It shouldn't be too difficult to adapt the scripts here to produce maps for footpaths and other amenities.
+
+I would like to break the data down further to be more granular than just local authority districts - the next lowest administrative division in England is [civil parishes](https://en.wikipedia.org/wiki/Civil_parish).
