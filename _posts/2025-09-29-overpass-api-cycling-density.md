@@ -26,6 +26,8 @@ I enjoy cycling off-road and like to plot routes that avoid roads as much as pos
  * Datawrapper produces beautiful [chloropeth maps](https://en.wikipedia.org/wiki/Choropleth_map) with minimal effort
  * OpenStreetMaps tagging has a lot of inconsistencies
 
+*Note:* I have since [made a better map](/overpass-api-off-road-cycling)
+
 ### Analysis
 
 This was a fun exercise but I don't think I would use it in deciding where to live or cycle. Ultimately there is little comparison between a mountain bike trail, a picturesque bridleway, and an urban cycleway. Although all are off-road cycle routes, each serves a completely different purpose.
@@ -34,7 +36,7 @@ Further, even if we limit our search to just one type of cyclable route, the qua
 
 ![](/assets/osm/offroadcycletypes.png)
 
-The [Strava heatmap](https://www.strava.com/maps/global-heatmap?hl=en-GB&sport=MountainBikeRide&style=dark&terrain=false&labels=true&poi=true&cPhotos=true&gColor=blue&gOpacity=100#9.7/51.3196/-0.4579) is the most valuable data in my opinion, as it shows where people actually ride:
+The [Strava](https://www.strava.com/maps/global-heatmap?hl=en-GB&sport=MountainBikeRide&style=dark&terrain=false&labels=true&poi=true&cPhotos=true&gColor=blue&gOpacity=100#9.7/51.3196/-0.4579) or [Garmin](https://support.garmin.com/en-US/?faq=n2UzfNkYOt3iAbXqgl03W7) heatmaps are the most valuable data in my opinion, as they show where people actually ride:
 
 ![](/assets/osm/strava_heatmap.jpg)
 
@@ -56,7 +58,7 @@ I found [Overpass Turbo](https://overpass-turbo.eu/), a resource for freely quer
 
 OpenStreetMap uses the term ["highway"](https://wiki.openstreetmap.org/wiki/Highways) as a catch-all for roads, paths, and tracks. Highways are tagged with information about their designation and who is permitted to use them. By navigating to a part of the map you know well and running the following query, you can view the tags on all the highways:
 
-<script src="https://gist.github.com/hyperreality/acd05c622667ddf8a0fb2446ababd851.js"></script>
+<script src="https://gist.github.com/hyperreality/e3f88d5db32e2eaa72a47db75768ef57"></script>
 
 #### Inconsistent Data
 
@@ -86,7 +88,7 @@ That's one of the best cycle routes in the area, and if you are just looking at 
 
 #### Length Query
 
-Bearing that in mind, I enumerated all the ways that off-road cycle routes are represented and summed the length of them in a given area. The resulting [Overpass query](https://gist.github.com/hyperreality/b93014b232b38d895e4721a8a3f6f3fd) is not perfect but provides a close enough approximation.
+Bearing that in mind, I enumerated all the ways that off-road cycle routes are represented and summed the length of them in a given area. The resulting [Overpass query](https://gist.github.com/hyperreality/adf9f652919b7b2410f0c924e37dd03a#file-overpass-districts-py-L11) is not perfect but provides a close enough approximation.
 
 I tested on the county of Surrey, and the query returned 11190 cyclable ways with a total length of 2070 kilometres.
 
