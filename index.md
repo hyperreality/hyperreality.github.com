@@ -12,6 +12,10 @@ layout: home
 <b>Poetry Tools</b></a> is a Python library for analysing poetry which has been used in literature research and linguistics software.
 <div style="clear: both;"></div>
 
+<a href="/walkability.html"><img src="/assets/projects/walkability.jpg" height="50%" width="50%" style="margin: 0px 10px 20px 0px; float: left;">
+<b>Walkability</b></a> is a visualisation of off-road walking and cycling routes in England and Wales.
+<div style="clear: both;"></div>
+
 <br />
 <h2 class="post-list-heading">Blog</h2>
 
