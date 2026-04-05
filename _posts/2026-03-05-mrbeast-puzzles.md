@@ -44,7 +44,7 @@ The first set of puzzles were found in links in pinned Mr Beast video comments, 
 
 Stage 1 contained 51 varied location puzzles, hidden across Mr Beast and influencer videos, especially the ["Mr Beast Vault" video](https://www.youtube.com/watch?v=Lp9OEfkWfLI).
 
-Solving them was a massive community effort that mainly took place on the Lone Shark Games Discord server. It was nice to see the amount of public solving and information sharing. There was a big variety of puzzles that used creative techniques I haven't seen before.
+Solving them was a massive community effort that mainly took place on the Lone Shark Games Discord server. It was nice to see the amount of public solving and information sharing. There was a variety of puzzles that used creative techniques I haven't seen before.
 
 A frequent complaint I saw was how trigger-happy the moderators of the Discord server were at banning people. I didn't take much notice of this until bizarrely I got banned without ever posting there. The top players moved to the Serious Mr Beast Scavenger Hunters Discord.
 
@@ -52,7 +52,7 @@ Most puzzles seemed fun and fair; some were brutally obscure until you coaxed hi
 
 ![](/assets/mrbeast/stage1.jpg)
 
-The hunt was intended to market the Salesforce AI bot, which turned out to be a generic LLM chatbot that you had to go through two rounds of email authentication to access. Useful clues only came from "Beastbot" which just grepped your messages for key phrases.
+The hunt was intended to market the Salesforce AI bot, which turned out to be a generic LLM chatbot that you had to go through two rounds of email authentication to access. Useful clues only came from "Beastbot" which wasn't AI, as it just grepped your messages for key phrases.
 
 There was a Sudoku puzzle which was about 100x as technical as anything else, where each player who visited a website got a different numbered Sudoku numbered from 100000 to 900000. We needed to reverse engineer the Sudoku generation algorithm to find what the Sudokus numbered 1 to 25 would have been. By taking the sum of isolated numbers in those grids, and using those sums to index into a phrase in the famous Mr Beast counting to 100k video, we found another location. 
 
@@ -88,11 +88,11 @@ To solve, you needed to infer several hidden constraints:
  * This leads to 9 separate groups of triplets chained together
  * Plotting the geodesic lines makes letters and numbers visually appear
 
-The difficulty was that few of the Stage 2 locations were located perfectly between Stage 1 locations on geodesic lines, and several correct answers turned out to be way off (up to 20km). We also didn't have precise co-ordinates for all the locations. Many players were using vibe-coded scripts to try to find chains of correct location triplets by closest match, however due to the large tolerances and fact that many triplets didn't chain, this didn't work too well.
+The difficulty was that few of the Stage 2 locations were located perfectly between Stage 1 locations on geodesic lines, and several correct answers turned out to be way off (up to 20km). We also didn't have precise co-ordinates for all the locations. Many players used vibe-coded scripts to try to find chains of correct location triplets by closest match, however due to the large tolerances and fact that many triplets didn't chain, this didn't work too well.
 
 The biggest breakthrough was realising that the first letters of the 12-letter words anagrammed to `NUMBERS FOR THIS HALF WOULD SMELL AS SWEET AS ONE`. We believe we were one of the first teams to notice this, when we saw that the first letters followed a really nice frequency distribution. This anagram then locked in an order for most of the Stage 2 locations.
 
-It was only through a manual process of working through the anagram and map simultaneously (and getting help from someone called formerlycharles) that we eventually figured the full puzzle out. Most notably, `NUMBERS` corresponded with a clear "R" drawn on the map in North America which also seemed a valid start for "Rose" which the anagram phrase referenced, from Romeo and Juliet.
+It was only through a manual process of working through the anagram and map simultaneously that we eventually figured out the full puzzle. Most notably, `NUMBERS` corresponded with a clear "R" drawn on the map in North America which also seemed a valid start for "Rose" which the anagram phrase referenced, from Romeo and Juliet.
 
 Plotting the lines gave the following (not 100% accurate but close enough):
 
@@ -120,12 +120,10 @@ This was one of the most creative and clever multi-layered puzzles I've ever see
 
 If the `R62 L39 R05` vault code from Stage 2 had unlocked the $1,000,000, I feel this would have been a satisfying ending. Whichever player managed to figure out the map constraints first, based on limited information, deserved the prize.
 
-Everyone is now stuck on the maddeningly vague "LAST PART" referenced in the answer phrase.
-
-Going against best practice learned from years of puzzles and capture the flag contests, there is no format given for the final answer. You would expect it to be a 6 part vault code, but if so it would certainly be solved by now, and a previous hint suggests there is something more than that.
-
-There are several photos on Mr Beast social media that could plausibly contain more of the answer. Nobody knows how many of these there are, what order they go in, or what other information should be included. 
+Everyone then got stuck on the maddeningly vague `LAST PART` referenced in the answer phrase. There was no format given for the final answer. There were several photos on Mr Beast social media from "the start" that could plausibly contain more of the answer. But nobody knew how many of these there were, what order they went in, or what other information should be included. 
 
 ![](/assets/mrbeast/rose.jpg)
 
-Maybe there is an elegant solution that snaps everything into place. And sure, it's a million dollars, it's not gonna be straightforward. But after thousands of people worked for weeks, motivated by life-changing money, making structured progress, it's a bit of a let down. I've been burned too many times before by overly guessy [puzzles that have no clear path forward](https://github.com/puzzlehunt/gsmgio-5btc-puzzle/issues/84) and have lost interest in this one.
+Finally, someone claimed the prize. Everyone was disappointed to learn the final answer, which related to the Instagram photo above. Take the the vault code, add `L73` from Rosé's shirt, then add on all the numbers in the background of the picture to get the final answer `R62L39R05L73606623093121200300`.
+
+Ultimately, you could have skipped the entire puzzle hunt, joined right at the end and lucked into the million by guessing this. On the positive side, at least there _was_ a winner this time, someone from the puzzle community who deserved it as much as anyone.
