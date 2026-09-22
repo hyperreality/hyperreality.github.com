@@ -13,6 +13,10 @@ author:
   name: Laurence Tennant
 quote: '"All things are difficult before they are easy." - Thomas Fuller'
 
+# Only show About in the site nav; other pages are linked from the homepage
+header_pages:
+ - about.md
+
 # Custom vars
 github: hyperreality
 
