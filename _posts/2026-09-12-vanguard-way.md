@@ -44,7 +44,7 @@ On the way into East Grinstead, we came across a llama farm on the estate of a d
 
 ![](/assets/vanguard/llamas.jpeg)
 
-Probably the best part of the original route that we miss in our updated route is east of Oxted, with pheasants running around a fire road alongside a sandstone quarry:
+Probably the most notable part of the original route that we miss in our updated route is east of Oxted, with pheasants running around a fire road alongside a sandstone quarry:
 
 ![](/assets/vanguard/sandstone.jpeg)
 
@@ -61,3 +61,9 @@ The nearby family-run pub/inn is memorable too with Long Man Brewery beers and o
 The Vanguard Way originally ended at Seaford but [was extended in 1997 to Newhaven](https://www.vanguardway.org.uk/history6.htm) to provide a link with the Dieppe ferry for those who wish to walk from London to Paris. This is a puzzling choice since most walkers will not be going to Paris - the coastal scenery around Seaford Head is an infinitely more fitting finale than the industrial approach into Newhaven.
 
 ![](/assets/vanguard/cuckmere.jpeg)
+
+## Conclusions
+
+Overall, we enjoyed the Vanguard Way as much as any walk we've done in England, and we think the changes proposed here make it even more convenient and memorable.
+
+We also recommend joining up the Vanguard Way with the [Wandle Trail](https://en.wikipedia.org/wiki/Wandle_Trail), which links the River Thames at Wandsworth to East Croydon. This offers a continuous journey from inner London to the south coast, giving a fantastic cross-section of south-east England.
