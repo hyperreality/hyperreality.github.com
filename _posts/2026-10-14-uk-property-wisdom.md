@@ -13,14 +13,13 @@ The basic idea is to buy a cheap property as soon as you can, and use the equity
 
 First, flats are traditionally the first rung of the ladder, and the value of houses has grown far quicker than flats over the last decade. In England, the average flat was worth about £218,000 in [July 2016](https://www.gov.uk/government/news/uk-house-price-index-hpi-for-july-2016) and about £217,000 in [July 2026](https://www.gov.uk/government/statistics/uk-house-price-index-for-july-2026/uk-house-price-index-england-july-2026), a drop in cash terms. Over the same period, semi-detached houses rose from about £216,000 to £292,000, a gain of roughly 35%.
 
-So buying a flat over the past decade hasn't got people closer to the next rung of the ladder. In fact it may have trapped them at the bottom in one of the numerous [leasehold](/scots-law-better) scandals.
+So buying a flat over the past decade hasn't got people closer to the next rung of the ladder, in fact it may have trapped them at the bottom in one of the numerous [leasehold](/scots-law-better) scandals.
 
 ![](/assets/flats.png)
 
-Second, the cost and difficulty of buying and selling in the UK (albeit slightly better in Scotland) means you don't want to move more often than necessary. Solicitors, estate agents, surveys and stamp duty all add a large fixed price to every move. After your first purchase, you lose first-time buyer stamp duty relief, and you'll usually have to sell and buy at the same time as part of a stressful chain. 
+Second, the cost and difficulty of buying and selling in the UK (slightly better in Scotland) means you don't want to move more often than necessary. Solicitors, estate agents, surveys and stamp duty all add a large fixed price to every move. After your first purchase, you lose first-time buyer stamp duty relief, and you'll usually have to sell and buy at the same time as part of a stressful chain. 
 
 The ladder metaphor rushes you into buying something you will soon outgrow, and is in my mind the #1 worst piece of property advice you often hear.
-
 
 ## "Safe as houses" / "Bricks and mortar"
 
@@ -28,7 +27,7 @@ Another common belief is that property is a safe and stable investment. I don't 
 
 As an investment, a home is a single, illiquid asset usually bought with heavy borrowing. Leverage is great in a fast rising market, but it really hurts in a falling one, where owners can end up owing more than the value of the property ("negative equity").
 
-Beyond market crashes, there are risks specific to a property that can make it hard or impossible to sell, usually through no fault of the owner, such as:
+Beyond market crashes, there are risks specific to a property that can make it hard or impossible to sell, such as:
  * Leasehold issues (escalating service charges, ground rent, cladding)
  * Flood risk
  * Legal and title issues
@@ -80,5 +79,5 @@ Many sellers haven't caught up with how expensive renovation is now, so tired, d
 
 Most of these sayings come from a time of steadily rising prices and cheap borrowing, or when prices were low relative to wages even if borrowing was dearer. That era has run its course, and yet the received wisdom is still part of the British psyche. 
 
-That doesn't mean I think that buying is a bad idea. It's great to have security of tenure, to be able to decorate to your tastes, and it usually makes financial sense if you're settling down for a long period. Just run your own numbers, treat anything that estate agents say with scepticism, and don't feel pressured into buying any property.
+That doesn't mean I think that buying is a bad idea. It's great to have security of tenure, to be able to decorate to your tastes, and it usually makes financial sense if you're settling down for the long term. Just run your own numbers, and don't feel pressured into buying any property.
 

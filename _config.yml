@@ -4,6 +4,10 @@ relative_permalinks: false
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+# Pagination (homepage must be index.html for jekyll-paginate)
+paginate: 10
+paginate_path: "/page:num/"
+
 # Setup
 title: Laurence Tennant
 url: http://laurencetennant.com
@@ -31,3 +35,4 @@ minima:
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jekyll-paginate

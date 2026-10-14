@@ -6,6 +6,7 @@ footer_content: |
   <p><a href="/more-projects/">Older and discontinued projects &rarr;</a></p>
 ---
 
+{% unless paginator.page > 1 %}
 <h2 class="post-list-heading">Projects</h2>
 
 <a href="https://cryptohack.org"><img src="/assets/projects/cryptohack.png" height="50%" width="50%" style="margin: 0px 10px 20px 0px; float: left;">
@@ -17,5 +18,6 @@ footer_content: |
 <div style="clear: both;"></div>
 
 <br />
+{% endunless %}
 <h2 class="post-list-heading">Blog</h2>
 
