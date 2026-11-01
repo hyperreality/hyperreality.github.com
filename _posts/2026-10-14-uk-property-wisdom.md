@@ -35,7 +35,9 @@ Beyond market crashes, there are risks specific to a property that can make it h
 
 Recently, UK property hasn't kept pace with inflation. The average home went from £255,535 in [July 2021](https://www.gov.uk/government/statistics/uk-house-price-index-summary-july-2021/uk-house-price-index-summary-july-2021) to £273,000 in [July 2026](https://www.gov.uk/government/news/uk-house-price-index-for-july-2026), a 7% rise, while [consumer prices rose 28%](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt/mm23) over the same period, meaning a real terms fall of around 17%.
 
-Meanwhile, a lot of other investments like index funds have performed far better, so money tied up in a deposit or mortgage overpayments has carried a high opportunity cost - although this is easy to say in hindsight.
+An [excellent analysis](https://penwardenreview.com/2026/10/30/can-you-lose-money-on-property/) by Mark Penwarden showed that in the first half of 2026, 76.5% of sellers who bought in the last 5 years have lost money in real terms.
+
+Meanwhile, a lot of other investments like index funds have performed extremely well, so money tied up in a deposit or mortgage overpayments has carried a high opportunity cost - although this is easy to say in hindsight.
 
 **See also:** "House prices double every ten years", "Your house is your pension"
 
